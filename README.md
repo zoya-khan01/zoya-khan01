@@ -6,7 +6,7 @@
 
  **About Me**
 
-Data Science & AI Enthusiast | Skilled in Python, SQL, Machine Learning, Deep Learning, Statistics, Data Analysis, ETL, and Visualization | Passionate about transforming raw data into actionable insights and building AI/ML solutions that drive real business impact.
+Data Science & AI Enthusiast | Systems Engineer at Infosys, skilled in SQL, Power BI, Excel, Python, Machine Learning. Experienced in building interactive dashboards and applying predictive analytics to support business decisions. Adept at exploratory data analysis, feature engineering, and model evaluation to deliver actionable insights. Strong collaborator with proven ability to translate complex datasets into clear, business-focused recommendations for stakeholders.
 
 - 📍 Based in **Bengaluru, India**
 - 💼 Systems Engineer at Infosys (Oct 2024 – Present)
