@@ -9,6 +9,7 @@
 Data Science & AI Enthusiast | Skilled in Python, SQL, Machine Learning, Deep Learning, Statistics, Data Analysis, ETL, and Visualization | Passionate about transforming raw data into actionable insights and building AI/ML solutions that drive real business impact.
 
 - 📍 Based in **Bengaluru, India**
+- 💼 Systems Engineer at Infosys (Oct 2024 – Feb 2025)
 - 💼 Open to **Data Analyst** and **Data Science** roles
 - 🌱 Currently deepening skills in **Generative AI & LLMs**
 - 📫 Reach me at **zoyakhan9114@gmail.com**
